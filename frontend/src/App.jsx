@@ -191,15 +191,6 @@ function App() {
 
           </div>
 
-
-          <div className="hero-badge">
-
-            <span className="online-dot"></span>
-
-            System operational
-
-          </div>
-
         </section>
 
 

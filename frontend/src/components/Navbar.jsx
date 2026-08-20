@@ -16,12 +16,6 @@ function Navbar() {
         </div>
 
         <div className="nav-right">
-
-          <div className="model-pill">
-            <span className="online-dot"></span>
-            API Online
-          </div>
-
           <div className="model-version">
             RF Model · v1.0
           </div>

@@ -19,6 +19,14 @@ const features = [
     name: "Behavioral Problems",
     value: 54,
   },
+  {
+    name:"BMI",
+    value: 40
+  },
+  {
+    name:"sleep quality",
+    value:35
+  }
 ];
 
 
